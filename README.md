@@ -27,8 +27,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 x=np.array(eval(input()))
 y=np.array(eval(input()))
-plt.scatter(x,y)
-plt.show()
 xmean=np.mean(x)
 ymean=np.mean(y)
 num=0
@@ -47,7 +45,8 @@ plt.show()
 ```
 
 ## Output:
-![univariance](https://github.com/23003250/Find-the-best-fit-line-using-Least-Squares-Method/assets/139331462/22f41f87-57e6-4860-8b51-ebf6a5926572)
+![Screenshot 2024-02-17 114232](https://github.com/23003250/Find-the-best-fit-line-using-Least-Squares-Method/assets/139331462/02d821b6-447f-40b9-9f1a-d8e9268add26)
+
 
 
 ## Result:
