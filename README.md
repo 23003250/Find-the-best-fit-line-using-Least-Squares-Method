@@ -47,9 +47,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](![univariance](https://github.com/23003250/Find-the-best-fit-line-using-Least-Squares-Method/assets/139331462/22f41f87-57e6-4860-8b51-ebf6a5926572)
-
-)
+![best fit line](![univariance](https://github.com/23003250/Find-the-best-fit-line-using-Least-Squares-Method/assets/139331462/22f41f87-57e6-4860-8b51-ebf6a5926572))
 
 
 ## Result:
